@@ -166,6 +166,10 @@ p > a:hover {
         margin: 0 auto;
         text-align: center;
     }
+
+    .product {
+      display: none !important;
+    }
 }
 
 /* ----------------- pay page home ------------------*/
